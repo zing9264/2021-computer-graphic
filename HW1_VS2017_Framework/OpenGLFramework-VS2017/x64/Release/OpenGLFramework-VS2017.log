@@ -1,0 +1,2 @@
+﻿  glad.c
+g:\nthu_islab\firstgrade\cg\hw01\as01_framework\as01_framework\hw1_vs2017_framework\openglframework-vs2017\glad.c(25): fatal error C1083: 無法開啟包含檔案: 'glad/glad.h': No such file or directory
