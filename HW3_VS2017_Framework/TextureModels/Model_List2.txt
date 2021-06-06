@@ -1,0 +1,5 @@
+../3DModels/TextureModels/Fushigidane.obj
+../3DModels/TextureModels/Golonya.obj
+../3DModels/TextureModels/Hitokage.obj
+../3DModels/TextureModels/Nyarth.obj
+../3DModels/TextureModels/Zenigame.obj

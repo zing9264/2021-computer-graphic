@@ -1,0 +1,48 @@
+﻿  main.cpp
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(324,58): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(379,52): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(380,53): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(473,67): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(545,51): warning C4244: '-=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(550,47): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(555,51): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(560,53): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(563,51): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(566,76): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(571,108): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(571,93): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(571,78): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(575,96): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(575,81): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(575,66): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(579,36): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(584,25): warning C4244: '=': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(611,17): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(612,17): warning C4244: '正在初始化': 將 'int' 轉換為 'float'，由於類型不同，可能導致資料遺失
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(618,53): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(619,53): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(624,51): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(625,51): warning C4244: '-=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(630,44): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(631,44): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(636,58): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(637,57): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(640,46): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(641,46): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(644,77): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(645,77): warning C4244: '+=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(650,103): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(650,84): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(654,91): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(654,72): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(658,89): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(658,70): warning C4244: '引數': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(935,50): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(1001,9): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'unsigned __int64'
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(1001,9): message : 請考慮在格式字串中使用 '%zd'
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(1001,9): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 2 的類型為 'unsigned __int64'
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(1001,9): message : 請考慮在格式字串中使用 '%zd'
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(1059,23): warning C4305: '=': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\OpenGLFramework-VS2017\main.cpp(1122,33): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+LINK : warning LNK4098: 預設的程式庫 'MSVCRT' 與其他使用的程式庫衝突，請使用 /NODEFAULTLIB:library
+  OpenGLFramework-VS2017.vcxproj -> G:\NTHU_ISLAB\firstgrade\CG\hw3\AS03_Framework\AS03_Framework\OpenGLFramework-VS2017\x64\Debug\OpenGLFramework-VS2017.exe
